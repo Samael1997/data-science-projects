@@ -11,7 +11,10 @@
 
 ## Projects
 
-**Structured and unstructured data management project - Maternal fetal health
-**Data mining project - Analysis of hotel customers
-**Statistical modeling project - Review of numerical methods of maximizing likelihood
-**Thesis project - Discovery of new disease biomarkers by classification and regression models
+**Structured and unstructured data management project - Maternal fetal health**
+
+**Data mining project - Analysis of hotel customers**
+
+**Statistical modeling project - Review of numerical methods of maximizing likelihood**
+
+**Thesis project - Discovery of new disease biomarkers by classification and regression models**

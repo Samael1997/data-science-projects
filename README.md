@@ -11,7 +11,7 @@
 
 ## Projects
 
-**Structured and unstructured data management project - Maternal fetal health**
+**Structured and unstructured data management project - Maternal fetal health (collaborator: GiusyNatale)**
 
 **Data mining project - Analysis of hotel customers**
 
